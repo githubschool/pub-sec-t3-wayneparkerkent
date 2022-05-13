@@ -3,7 +3,7 @@ Training exercise repository for GitHub Actions using a docker base. This reposi
 
 ## How to Use
 - Clone this repository to your local **GitHub organization** or **user account**
-  - You can do so by [changing the repository's remote URL](https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url) with 
+  - You can do so by [changing the repository's remote URL](https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url) with
   ```
   git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
   ```
